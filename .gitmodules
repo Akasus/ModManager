@@ -1,0 +1,4 @@
+[submodule "SUCC"]
+	path = SUCC
+	url = https://github.com/JimmyCushnie/SUCC.git
+	branch = master
